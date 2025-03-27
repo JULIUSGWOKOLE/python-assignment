@@ -28,3 +28,5 @@ if discount_percentage >= 20:
     print(f"Final price after {discount_percentage}% discount: ${final_price:.2f}")
 else:
     print(f"No discount applied. Original price: ${original_price:.2f}")
+
+    
